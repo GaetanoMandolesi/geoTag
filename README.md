@@ -10,4 +10,4 @@ Perchè venga restituto un risultato visivo, è necessario che vi sia almeno una
 03_   in questo progetto 03 è stata aggiunta una generica "galleria immagini", richiamabile dal link, in alto a sinistra, al caricamento della pagina.
     Inoltre è stata inserita una pagina di caricamento via http.
 
-E' stato previsto, principalmente il caricamento, via "FTP". Naturalmente è necessario che venga garanita la conservazione delle informazioni sulla posizione che, generalmente, gli smartphone tendono ad eliminare per garantire, appunto, la privacy.
+E' stato previsto, principalmente il caricamento, via "FTP". Naturalmente è necessario che venga garantita la conservazione delle informazioni sulla posizione che, generalmente, gli smartphone tendono ad eliminare per garantire, appunto, la privacy.
