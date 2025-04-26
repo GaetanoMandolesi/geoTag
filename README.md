@@ -18,4 +18,4 @@ Copiare l'intero progetto nella root di un server "Apache"; volendo si può rino
 
 Invocare, da un qualsiasi Browser Web, la pagina index:"geoTag.Php", attraverso il suo Path.
 
-Per il caricamento delle immagini geo-referenziate usare una procedura , ad hoc, facoltativa. Per il solo "progetto03" è previsto un caricamento via http (pag. index:"carica.html"); è suggerito il caricamento via FTP. 
+Per il caricamento delle immagini geo-referenziate usare una procedura, ad hoc, facoltativa. Per il solo "progetto03" è previsto un caricamento via http (pag. index:"carica.html"); è suggerito, comunque, il caricamento via FTP. 
