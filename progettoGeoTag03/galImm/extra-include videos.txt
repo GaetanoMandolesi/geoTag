@@ -1,0 +1,10 @@
+// (A) GET IMAGES & VIDEOS
+$media = glob("$dir*.{jpg,jpeg,gif,png,bmp,webp,avi,mp4}", GLOB_BRACE);
+ 
+// (B) OUTPUT HTML
+foreach ($media as $i) {
+  $parts = pathinfo($i);
+  if ($parts["extension"]=="avi" || $parts["extension"]=="mp4") {
+    printf("<video src='gallery/%s' controls></video>", basename($i));
+  } else { printf("<img src='gallery/%s'/>", basename($i)); }
+}

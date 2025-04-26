@@ -1,0 +1,11 @@
+Sort by date.
+usort($images, function($file1, $file2) {
+  // NEWEST FILE FIRST
+  return filemtime($file2) <=> filemtime($file1); 
+  // OLDEST FILE FIRST
+  // return filemtime($file1) <=> filemtime($file2);
+});
+
+Sort by file name.
+sort($images); // LOW TO HIGH
+rsort($images); // HIGH TO LOW

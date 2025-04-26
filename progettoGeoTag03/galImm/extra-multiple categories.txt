@@ -1,0 +1,11 @@
+<h1>CATEGORY A</h1>
+<div class="gallery"><?php
+  $images = glob(FOLDER A);
+  foreach ($images as $i) { printf("<img ... />"); }
+?></div>
+ 
+<h1>CATEGORY B</h1>
+<div class="gallery"><?php
+  $images = glob(FOLDER B);
+  foreach ($images as $i) { printf("<img ... />"); }
+?></div>
