@@ -11,3 +11,11 @@ Perchè venga restituto un risultato visivo, è necessario che vi sia almeno una
     Inoltre è stata inserita una pagina di caricamento via http.
 
 E' stato previsto, principalmente il caricamento, via "FTP". Naturalmente è necessario che venga garantita la conservazione delle informazioni sulla posizione che, generalmente, gli smartphone tendono ad eliminare per garantire, appunto, la privacy.
+
+NOTE D'USO
+
+Copiare l'intero progetto nella root di un server "Apache".
+
+Invocare, da un qualsiasi Browser Web, la pagina index:"geoTag.Php"
+
+Per il caricamento delle immagini geo-referenziate usare una procedura , ad hoc, facoltativa. Per il solo "progetto03" è previsto un caricamento via http (pag. index:"carica.html"); è suggerito il caricamento via FTP. 
