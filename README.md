@@ -8,6 +8,6 @@ Perchè venga restituto un risultato visivo, è necessario che vi sia almeno una
     Va da sè, che per una più appropriata presentazione le immagini vengano rinominate, magari, in maniera descrittiva. In tal caso questa deve essere priva di spazi e/o caratteri speciali.
     
 03_   in questo progetto 03 è stata aggiunta una generica "galleria immagini", richiamabile dal link, in alto a sinistra, al caricamento della pagina.
-    inoltre è stata inserita una pagina di caricamento via http.
+    Inoltre è stata inserita una pagina di caricamento via http.
 
 E' stato previsto, principalmente il caricamento, via "FTP". Naturalmente è necessario che venga garanita la conservazione delle informazioni sulla posizione che, generalmente, gli smartphone tendono ad eliminare per garantire, appunto, la privacy.
